@@ -1,0 +1,9 @@
+.git
+.github
+.venv
+venv
+.pytest_cache
+__pycache__
+*.egg-info
+tests
+audit.jsonl
